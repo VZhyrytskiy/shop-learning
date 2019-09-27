@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-
+// Пункт 4? 
 @Component({
   selector: 'app-first',
   templateUrl: './first.component.html',
